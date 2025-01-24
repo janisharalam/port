@@ -866,6 +866,12 @@
       justify-content: center;
       margin: 0 auto 60px;
     }
+      
+      .skills .skills-content .right .left {
+      display: flex;
+      justify-content: center;
+      margin: 0 auto 60px;
+    }
     .about .about-content .right {
       flex: 100%;
     }
